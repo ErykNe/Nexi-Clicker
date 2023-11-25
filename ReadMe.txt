@@ -12,6 +12,7 @@ For Launching this application you must have:
 This location is required because JavaFX can't work without assigned location,
 if you don't want to instal this in that locations, you propably might use 
 application with .jar file, which is in ,,src'' folder.
+EDIT: download this rar file from google drive and extract it to jre folder and replace it with the jre folder in repository: https://drive.google.com/file/d/1UK6CpfpAkLHU6W1dPRHEZTaRtRo8MwWo/view?usp=sharing
 
 Usage:
 - Use in accordance with any steps. If something went wrong or there is a bug, it's

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Eryk Nejfert\Desktop\Nexi Clicker 1.2.jar</jar>
+  <outfile>Nexi Clicker 1.2.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Eryk Nejfert\Desktop\Programming\misc\!Raw Codes\Nexi Clicker 1.2\src\resource\Icon.ico</icon>
+  <classPath>
+    <mainClass>sample.Main</mainClass>
+  </classPath>
+  <jre>
+    <path>jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <opt>--module-path</opt>
+    <opt>&quot;C:\Program Files\All Java Files\Older Versions\SDK (JavaFX)\lib&quot;</opt>
+    <opt>--add-modules</opt>
+    <opt>javafx.controls,javafx.fxml</opt>
+    <opt>--add-modules</opt>
+    <opt>javafx.controls,javafx.media</opt>
+    <opt>--add-modules</opt>
+    <opt>javafx.controls,javafx.web</opt>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0</txtFileVersion>
+    <fileDescription>Made by ErykNe</fileDescription>
+    <copyright>Eryk Ne</copyright>
+    <productVersion>1.0.0.2</productVersion>
+    <txtProductVersion>1.2</txtProductVersion>
+    <productName>Nexi Clicker 1.2</productName>
+    <companyName></companyName>
+    <internalName>Nexi Clicker 1.2</internalName>
+    <originalFilename>Nexi Clicker 1.2.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
